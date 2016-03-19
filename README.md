@@ -1,9 +1,9 @@
 #Smart Driving Pattern Analysis System
-An IOT Powered Initiaive for Application in Automotive Spheres! 
+###An IOT Powered Initiaive for Application in Automotive Spheres! 
 
-Handcrafted by
-Lokeshwaran K
-Vinith Kannan A
+####Handcrafted by
+* Lokeshwaran K
+* Vinith Kannan A
 
 ##Login page
 ![ss2](https://cloud.githubusercontent.com/assets/10046561/13895864/7e362764-ed9f-11e5-8a10-1a47a70c8720.jpg)
